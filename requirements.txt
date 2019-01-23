@@ -1,9 +1,4 @@
 pandas
-spacy
-numpy
 scikit-learn
-matplotlib
-seaborn
-gensim
-textblob
+
 
